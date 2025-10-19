@@ -87,3 +87,52 @@ img {
     align-items: start;
     padding-top: 50px;
 }
+
+.activity {
+    width: 200px;
+    height: 200px;
+    padding: 40px 8px;
+}
+
+.activity-title {
+    width: 180px;
+    height: 32px;
+    font-family: inherit;
+    font-weight: 700px;
+    font-size: 17px ;
+    color: #1D3557;
+    padding-left: 14px;
+    padding-top: 16px;
+
+}
+
+.activity-paragraph {
+    width: 200px;
+    height: 50px;
+    font-family: inherit;
+    font-weight: 700px;
+    font-size: 16px;
+    color: #1D3557;
+    padding-top: 20px;
+
+}
+
+#guide {
+    width: 720px;
+    height: 400px;
+    background-color: #FFFFFF;
+    padding-left: 400px;
+
+}
+
+.guid-container {
+    width: 700px;
+    height: 294px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #A8DADC;
+    border: 2px solid black;
+    border-radius: 10px;
+    border-bottom: 4px solid #1D3557;
+}
